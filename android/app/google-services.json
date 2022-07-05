@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59354904967",
+    "firebase_url": "https://prod-getpower---powerbank.firebaseio.com",
+    "project_id": "prod-getpower---powerbank",
+    "storage_bucket": "prod-getpower---powerbank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59354904967:android:d6ede79069ae0643c9bb22",
+        "android_client_info": {
+          "package_name": "ru.rugetpower.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59354904967-tqohc0adrv2cb21lqishjh41on8104vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJzcj4OkIHgxR7xBdF1ec9_zWVVU5YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59354904967-tqohc0adrv2cb21lqishjh41on8104vc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59354904967-rn76qgd0kr5l3dbtfl6ovohhkpqfd0qv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.rugetpower.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

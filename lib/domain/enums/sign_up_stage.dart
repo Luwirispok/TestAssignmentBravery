@@ -1,0 +1,22 @@
+enum SignUpStage {
+  fillEmail,
+  fillPhoneNumber,
+  fillPassword,
+  confirmPassword,
+  fillName,
+  fillBirthdate,
+  fillGender,
+  fillHalfGender,
+  fillPurpose,
+  fillSexuality,
+  fillHeight,
+  fillWeight,
+  createMemoji,
+  helperForFillPhoto,
+  fillPhoto,
+  processSelectedPhoto,
+  makePhoto,
+  confirmPhoto,
+  finish,
+
+}
